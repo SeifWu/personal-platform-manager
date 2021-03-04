@@ -47,7 +47,7 @@
     "@ant-design/pro-table": "^2.17.0",
     "@umijs/plugin-openapi": "^1.0.1",
     "@umijs/route-utils": "^1.0.33",
-    "antd": "^4.9.4",
+    "antd": "^4.13.0",
     "classnames": "^2.2.6",
     "lodash": "^4.17.11",
     "moment": "^2.25.3",
